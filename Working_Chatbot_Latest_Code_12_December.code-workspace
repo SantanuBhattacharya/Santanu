@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "config"
+		},
+		{
+			"path": "GoogleAPIKey"
+		},
+		{
+			"path": "migrations"
+		},
+		{
+			"path": "node_modules"
+		},
+		{
+			"path": "node_modules7687"
+		},
+		{
+			"path": "old_version"
+		},
+		{
+			"path": "src"
+		}
+	]
+}

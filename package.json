@@ -1,0 +1,51 @@
+{
+  "name": "",
+  "version": "",
+  "description": "",
+  "scripts": {
+    "start": "nodemon src/app.js",
+    "lint": "./node_modules/.bin/eslint ./"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "apiai": "^4.0.0",
+    "axios": "^0.15.3",
+    "base-64": "^0.1.0",
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.1",
+    "curl": "^0.1.4",
+    "dialogflow": "^1.0.0",
+    "express": "^4.17.1",
+    "googleapis": "^18.0.0",
+    "http-errors": "^1.6.1",
+    "i18n": "^0.8.3",
+    "jsforce": "^1.7.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.4",
+    "natural": "^0.5.1",
+    "node-webhooks": "^1.4.2",
+    "nodemailer": "^4.0.1",
+    "pg": "^6.1.5",
+    "phone-formatter": "0.0.2",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0",
+    "rollbar": "0.6.6",
+    "sequelize": "^3.30.4",
+    "sequelize-cli": "^2.7.0",
+    "shipit": "^1.0.2",
+    "shipit-deploy": "^2.4.0",
+    "shipit-shared": "^4.4.2"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3",
+    "mocha": "^3.2.0",
+    "should": "^11.2.1",
+    "supertest": "^3.0.0"
+  }
+}
